@@ -61,6 +61,13 @@ To solve this issue, we assume that Intel virtualization is already enabled in t
      ```
      A hypervisor has not been detected. Features required for Hyper-V will not be displayed.
      ```
+## Issue Solved:
+
+- VMware
+<img src="https://github.com/user-attachments/assets/578514d7-62a4-4d09-866c-5161c74b3378" alt="Intel VT-x/EPT VMware issue solved" width="500" />
+
+- Oracle VirtualBox
+<img src="https://github.com/user-attachments/assets/a71cfb6c-ec15-4f80-9e19-877bf60875c4" alt="Oracle VirtualBox issue Solved" width="500" />
 
    <img src="https://github.com/user-attachments/assets/0dfb356f-c5ff-4f96-88ac-0a8f6f92768f" alt="Systeminfo Verification" width="500" />
 
