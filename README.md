@@ -1,5 +1,8 @@
 # Solution to Intel VT-x/EPT Problem in VMware and VirtualBox
 
+[Versión en español](https://github.com/AnzeuS/Solucion-problema-intel-VT-x-EPT-VMware---VirtualBox)
+
+
 This guide describes the solution to an issue related to Intel VT-x/EPT virtualization. It was tested on Windows 11 Pro with an Intel i5 12th generation processor.
 
 - VMware Workstation
