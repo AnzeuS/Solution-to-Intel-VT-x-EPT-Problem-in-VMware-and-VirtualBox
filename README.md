@@ -64,9 +64,8 @@ To solve this issue, we assume that Intel virtualization is already enabled in t
    - Restart your computer.
    - Open `cmd`, run `systeminfo`, and confirm the following information appears:
 
-     ```
-     A hypervisor has not been detected. Features required for Hyper-V will not be displayed.
-     ```
+<img src="https://github.com/user-attachments/assets/0dfb356f-c5ff-4f96-88ac-0a8f6f92768f" alt="Systeminfo Verification" />
+     
 ## Issue Solved:
 
 - VMware
