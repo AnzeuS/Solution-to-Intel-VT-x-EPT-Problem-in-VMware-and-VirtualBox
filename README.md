@@ -50,12 +50,15 @@ To solve this issue, we assume that Intel virtualization is already enabled in t
 
 4. **Disable Windows features**
    - Go to "Add or Remove Windows Features".
+     
+   <img src="https://github.com/user-attachments/assets/43a0f566-0c9b-46b8-894c-0030be1ea434" alt="Windows Features" width="500" />
+   
    - Turn off the following options:
      - Hyper-V
      - Windows Hypervisor Platform
      - Virtual Machine Platform
 
-   <img src="https://github.com/user-attachments/assets/43a0f566-0c9b-46b8-894c-0030be1ea434" alt="Windows Features" width="500" />
+   <img src="https://github.com/user-attachments/assets/0b0478b0-75ce-4a9f-8684-73b26e597bba" alt="Windows Features" width="500" />
 
 5. **Restart and verify**
    - Restart your computer.
